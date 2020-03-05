@@ -5,19 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8c1c7f3-fcdd-4e8a-b4b1-afa389221091" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/10_JS对象_RegExp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/11_JS对象_global.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/1_JS与html结合方式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/2_JS注释.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/3_JS变量.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/4_JS变量typeof.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/5_JS运算符_一元运算符.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/7_JS运算符_比较运算符.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/8_JS练习-乘法表.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/9_JS对象_Function.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/Day08_javascript基础.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/js/a.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +68,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -296,7 +283,7 @@
       <workItem from="1583058659397" duration="21306000" />
       <workItem from="1583292534299" duration="11125000" />
       <workItem from="1583307800285" duration="9410000" />
-      <workItem from="1583377281310" duration="14373000" />
+      <workItem from="1583377281310" duration="15755000" />
     </task>
     <task id="LOCAL-00001" summary="20200304">
       <created>1583322619608</created>
@@ -305,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583322619608</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20200305">
+      <created>1583404762383</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583404762383</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +320,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20200304" />
-    <option name="LAST_COMMIT_MESSAGE" value="20200304" />
+    <MESSAGE value="20200305" />
+    <option name="LAST_COMMIT_MESSAGE" value="20200305" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="198" key="#Inspections" timestamp="1582965662552">
@@ -369,9 +364,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1583058419252" />
-    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1582971344538">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="740" y="284" key="FileChooserDialogImpl" timestamp="1583405650841">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="740" y="284" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1583405650841" />
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/-1920.-60.1536.864@0.0.1920.1080" timestamp="1582971344538" />
     <state x="2660" y="355" key="FileChooserDialogImpl/1920.60.1920.1080/0.0.1536.864@1920.60.1920.1080" timestamp="1582692882209" />
     <state width="1877" height="286" key="GridCell.Tab.0.bottom" timestamp="1583058613669">
@@ -418,9 +414,10 @@
       <screen x="1920" y="60" width="1920" height="1080" />
     </state>
     <state width="1877" height="354" key="GridCell.Tab.1.right/1920.60.1920.1080/0.0.1536.864@1920.60.1920.1080" timestamp="1582693697851" />
-    <state x="461" y="182" key="SettingsEditor" timestamp="1582975757246">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="461" y="175" key="SettingsEditor" timestamp="1583406042872">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="461" y="175" key="SettingsEditor/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1583406042872" />
     <state x="461" y="182" key="SettingsEditor/0.0.1920.1080/-1920.-60.1536.864@0.0.1920.1080" timestamp="1582975757246" />
     <state x="658" y="433" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583049694418">
       <screen x="0" y="0" width="1920" height="1080" />
