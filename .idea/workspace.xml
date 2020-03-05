@@ -5,27 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8c1c7f3-fcdd-4e8a-b4b1-afa389221091" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/10_css属性-盒子模型.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/11_案例css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/1_表单标签.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/2_表单标签_表单项.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/3_案例1_注册页面html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/4_css与html结合方式1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/5_css与html结合方式2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/6_css与html结合方式3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/7_基础选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/8_扩展选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/9_css属性-字体.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/css/a.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/img/login_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/img/login_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/img/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/img/regbtn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/img/register_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day07_html&amp;css/img/verify_code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/10_JS对象_RegExp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/11_JS对象_global.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/1_JS与html结合方式.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/2_JS注释.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/3_JS变量.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/4_JS变量typeof.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/5_JS运算符_一元运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/7_JS运算符_比较运算符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/8_JS练习-乘法表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/9_JS对象_Function.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/Day08_javascript基础.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08_javascript基础/js/a.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,26 +77,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day07_html&amp;css" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day08_javascript基础" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java\JavaWeb\HmJavaWeb\Day07_html&amp;css" />
-      <recent name="D:\Java\JavaWeb\HmJavaWeb\Day06_html" />
-      <recent name="D:\Java\JavaWeb\BLWeb\Day05_dataSource\libs" />
-      <recent name="D:\Java\JavaWeb\BLWeb\Day05_dataSource\src" />
-      <recent name="D:\Java\JavaWeb\BLWeb\Day04_JDBC\libs" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\JavaWeb\BLWeb\Day01\src\com\xducs\demo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xducs.jdbc" />
       <recent name="com.xducs.reflect" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Java\JavaWeb\BLWeb\Day01\src\com\xducs\demo" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\JavaWeb\HmJavaWeb\Day08_javascript基础" />
+      <recent name="D:\Java\JavaWeb\HmJavaWeb\Day07_html&amp;css" />
+      <recent name="D:\Java\JavaWeb\HmJavaWeb\Day06_html" />
+      <recent name="D:\Java\JavaWeb\BLWeb\Day05_dataSource\libs" />
+      <recent name="D:\Java\JavaWeb\BLWeb\Day05_dataSource\src" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.30">
@@ -302,8 +295,17 @@
       <workItem from="1583058327629" duration="285000" />
       <workItem from="1583058659397" duration="21306000" />
       <workItem from="1583292534299" duration="11125000" />
-      <workItem from="1583307800285" duration="8391000" />
+      <workItem from="1583307800285" duration="9410000" />
+      <workItem from="1583377281310" duration="14373000" />
     </task>
+    <task id="LOCAL-00001" summary="20200304">
+      <created>1583322619608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583322619608</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,24 +324,29 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20200304" />
+    <option name="LAST_COMMIT_MESSAGE" value="20200304" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="552" y="198" key="#Inspections" timestamp="1582965662552">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="198" key="#Inspections/0.0.1920.1080/-1920.-60.1536.864@0.0.1920.1080" timestamp="1582965662552" />
     <state x="2472" y="258" key="#Inspections/1920.60.1920.1080/0.0.1536.864@1920.60.1920.1080" timestamp="1582706571334" />
-    <state x="2472" y="258" key="#Project_Structure" timestamp="1582687190064">
-      <screen x="1920" y="60" width="1920" height="1080" />
+    <state x="552" y="191" key="#Project_Structure" timestamp="1583322789119">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="552" y="191" key="#Project_Structure/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1583322789119" />
     <state x="2472" y="258" key="#Project_Structure/1920.60.1920.1080/0.0.1536.864@1920.60.1920.1080" timestamp="1582687190064" />
     <state x="552" y="198" key="#SQL_Dialects" timestamp="1582944091788">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="198" key="#SQL_Dialects/0.0.1920.1080/-1920.-60.1536.864@0.0.1920.1080" timestamp="1582944091788" />
-    <state x="552" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583116897193">
+    <state x="552" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583322792670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1583116897193" />
+    <state x="552" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1583322792670" />
     <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1920.-60.1536.864@0.0.1920.1080" timestamp="1582944363618" />
     <state x="2012" y="152" width="1736" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582688611320">
       <screen x="1920" y="60" width="1920" height="1080" />
@@ -428,20 +435,20 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="304" key="extract.method.dialog/0.0.1920.1080/-1920.-60.1536.864@0.0.1920.1080" timestamp="1582972711925" />
-    <state x="335" y="144" key="new project wizard" timestamp="1583292575458">
+    <state x="335" y="144" key="new project wizard" timestamp="1583378208541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="335" y="144" key="new project wizard/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1583292575458" />
+    <state x="335" y="144" key="new project wizard/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1583378208541" />
     <state x="335" y="150" key="new project wizard/0.0.1920.1080/-1920.-60.1536.864@0.0.1920.1080" timestamp="1583034807160" />
     <state x="2255" y="210" key="new project wizard/1920.60.1920.1080/0.0.1536.864@1920.60.1920.1080" timestamp="1582687219467" />
     <state x="616" y="250" key="run.anything.popup" timestamp="1583048419652">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/-1920.-60.1536.864@0.0.1920.1080" timestamp="1583048419652" />
-    <state x="623" y="226" width="672" height="653" key="search.everywhere.popup" timestamp="1583306734479">
+    <state x="623" y="226" width="672" height="653" key="search.everywhere.popup" timestamp="1583403131979">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="226" width="672" height="653" key="search.everywhere.popup/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1583306734479" />
+    <state x="623" y="226" width="672" height="653" key="search.everywhere.popup/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1583403131979" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.-60.1536.864@0.0.1920.1080" timestamp="1583048707943" />
     <state x="2543" y="295" width="672" height="678" key="search.everywhere.popup/1920.60.1920.1080/0.0.1536.864@1920.60.1920.1080" timestamp="1582696042323" />
   </component>

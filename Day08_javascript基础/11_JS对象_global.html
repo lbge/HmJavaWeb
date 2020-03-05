@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Global对象</title>
+
+    <script>
+        var str = "传智播客";
+       var encode = encodeURI(str);
+       document.write(encode+"<br>");
+
+       var s = decodeURI(encode);
+        document.write(s+"<br>");
+
+        var encode = encodeURIComponent(str);
+        document.write(encode+"<br>");
+
+        var s = decodeURIComponent(encode);
+        document.write(s+"<br>");
+
+        var str1 = "jh46564sdfsdf";
+        document.write(parseInt(str1)+"<br>")
+
+        var i = NaN;
+        var  flag =isNaN(i)
+        document.write(flag+"<br>");
+
+        var code = "alert(123)"
+        eval(code);
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>
