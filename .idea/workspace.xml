@@ -5,36 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8c1c7f3-fcdd-4e8a-b4b1-afa389221091" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/10_Document对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/11_Element对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/12_Node对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/13_案例4-动态表格.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/14_HTMLDOM.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/15_HTMLDOM_控制样式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/16_常见事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/17_案例5_表格全选.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/18_案例6-表单验证.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/1_DOM获取元素对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/2_事件绑定.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/3_案例1-电灯开关.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/4_window对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/5_案例2-轮播图.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/6_location对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/7_案例3-自动跳转首页.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/8_History对象.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/9_History对象2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/Day09_javascript高级.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/img/banner_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/img/banner_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/img/banner_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/img/gou.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/img/off.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/img/on.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/img/register_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day09_javascript高级/img/verify_code.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -315,7 +285,7 @@
       <workItem from="1583292534299" duration="11125000" />
       <workItem from="1583307800285" duration="9410000" />
       <workItem from="1583377281310" duration="16619000" />
-      <workItem from="1583465828373" duration="28940000" />
+      <workItem from="1583465828373" duration="29291000" />
     </task>
     <task id="LOCAL-00001" summary="20200304">
       <created>1583322619608</created>
@@ -447,10 +417,10 @@
       <screen x="1920" y="60" width="1920" height="1080" />
     </state>
     <state width="1877" height="354" key="GridCell.Tab.1.right/1920.60.1920.1080/0.0.1536.864@1920.60.1920.1080" timestamp="1582693697851" />
-    <state x="461" y="175" key="SettingsEditor" timestamp="1583406042872">
+    <state x="461" y="175" key="SettingsEditor" timestamp="1583502340477">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="175" key="SettingsEditor/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1583406042872" />
+    <state x="461" y="175" key="SettingsEditor/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1583502340477" />
     <state x="461" y="182" key="SettingsEditor/0.0.1920.1080/-1920.-60.1536.864@0.0.1920.1080" timestamp="1582975757246" />
     <state x="658" y="433" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583049694418">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -475,10 +445,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/-1920.-60.1536.864@0.0.1920.1080" timestamp="1583048419652" />
-    <state x="623" y="226" width="672" height="653" key="search.everywhere.popup" timestamp="1583403131979">
+    <state x="623" y="226" width="672" height="653" key="search.everywhere.popup" timestamp="1583502201411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="226" width="672" height="653" key="search.everywhere.popup/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1583403131979" />
+    <state x="623" y="226" width="672" height="653" key="search.everywhere.popup/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1583502201411" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.-60.1536.864@0.0.1920.1080" timestamp="1583048707943" />
     <state x="2543" y="295" width="672" height="678" key="search.everywhere.popup/1920.60.1920.1080/0.0.1536.864@1920.60.1920.1080" timestamp="1582696042323" />
   </component>
