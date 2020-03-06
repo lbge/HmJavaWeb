@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>window对象</title>
+</head>
+<body>
+<input id="openbtn" type="button" value="打开新窗口">
+<input id="closebtn" type="button" value="关闭窗口">
+
+<script>
+    /*  // window.alert("ha");
+      let flag = confirm("确定退出吗");
+      if (flag) {
+          alert("bye");
+      } else {
+          alert("stay")
+      }*/
+    /*let s = prompt();
+    alert(s);*/
+    /* let openBtn = document.getElementById("openbtn");
+     let closeBtn = document.getElementById("closebtn");
+     let newWindow;
+     openBtn.onclick = function () {
+         newWindow = open("https://www.baidu.com");
+     }
+     closeBtn.onclick = function () {
+         newWindow.close();
+     }
+ */
+
+    // setTimeout(fun, 2000);
+    // let t1 = setTimeout(fun, 2000);
+    // clearTimeout(t1);
+
+    function fun() {
+        alert('时间到了');
+    }
+
+    let t2 = setInterval(fun,2000);
+    clearInterval(t2);
+
+    var history1 = history;
+    alert(history1);
+
+    history.reload
+</script>
+</body>
+</html>
