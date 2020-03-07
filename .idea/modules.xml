@@ -3,13 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Day01/Day01.iml" filepath="$PROJECT_DIR$/Day01/Day01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day04_JDBC/Day04_JDBC.iml" filepath="$PROJECT_DIR$/Day04_JDBC/Day04_JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day04——jdbc/Day04——jdbc.iml" filepath="$PROJECT_DIR$/Day04——jdbc/Day04——jdbc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day05_dataSource/Day05_dataSource.iml" filepath="$PROJECT_DIR$/Day05_dataSource/Day05_dataSource.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day06_html/Day06_html.iml" filepath="$PROJECT_DIR$/Day06_html/Day06_html.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day07_html&amp;css/Day07_html&amp;css.iml" filepath="$PROJECT_DIR$/Day07_html&amp;css/Day07_html&amp;css.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day08_javascript基础/Day08_javascript基础.iml" filepath="$PROJECT_DIR$/Day08_javascript基础/Day08_javascript基础.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day09_javascript高级/Day09_javascript高级.iml" filepath="$PROJECT_DIR$/Day09_javascript高级/Day09_javascript高级.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day05_JDBC/Day05_JDBC.iml" filepath="$PROJECT_DIR$/Day05_JDBC/Day05_JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day06_dataSource/Day06_dataSource.iml" filepath="$PROJECT_DIR$/Day06_dataSource/Day06_dataSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day07_html/Day07_html.iml" filepath="$PROJECT_DIR$/Day07_html/Day07_html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day08_html&amp;css/Day08_html&amp;css.iml" filepath="$PROJECT_DIR$/Day08_html&amp;css/Day08_html&amp;css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day09_javascript基础/Day09_javascript基础.iml" filepath="$PROJECT_DIR$/Day09_javascript基础/Day09_javascript基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day10_javascript高级/Day10_javascript高级.iml" filepath="$PROJECT_DIR$/Day10_javascript高级/Day10_javascript高级.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day11_bootstrap/Day11_bootstrap.iml" filepath="$PROJECT_DIR$/Day11_bootstrap/Day11_bootstrap.iml" />
     </modules>
   </component>
 </project>

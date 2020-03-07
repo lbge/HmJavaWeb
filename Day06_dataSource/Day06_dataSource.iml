@@ -10,11 +10,11 @@
     <orderEntry type="library" name="c3p0-0.9.5.5" level="project" />
     <orderEntry type="library" name="mysql-connector-java-8.0.18" level="project" />
     <orderEntry type="library" name="druid-1.1.21" level="project" />
-    <orderEntry type="module" module-name="Day04_JDBC" />
+    <orderEntry type="module" module-name="Day05_JDBC" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/libs/spring-jdbc-5.2.4.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Day05_dataSource/libs/spring-jdbc-5.2.4.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -23,11 +23,11 @@
     <orderEntry type="module-library">
       <library name="commons-logging-1.2">
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/libs/commons-logging-1.2.jar!/" />
-          <root url="jar://$MODULE_DIR$/libs/spring-beans-5.0.0.RELEASE.jar!/" />
-          <root url="jar://$MODULE_DIR$/libs/spring-core-5.0.0.RELEASE.jar!/" />
-          <root url="jar://$MODULE_DIR$/libs/spring-jdbc-5.0.0.RELEASE.jar!/" />
-          <root url="jar://$MODULE_DIR$/libs/spring-tx-5.0.0.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Day05_dataSource/libs/commons-logging-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Day05_dataSource/libs/spring-beans-5.0.0.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Day05_dataSource/libs/spring-core-5.0.0.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Day05_dataSource/libs/spring-jdbc-5.0.0.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Day05_dataSource/libs/spring-tx-5.0.0.RELEASE.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
