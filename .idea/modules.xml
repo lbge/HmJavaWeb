@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/Day09_javascript基础/Day09_javascript基础.iml" filepath="$PROJECT_DIR$/Day09_javascript基础/Day09_javascript基础.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day10_javascript高级/Day10_javascript高级.iml" filepath="$PROJECT_DIR$/Day10_javascript高级/Day10_javascript高级.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day11_bootstrap/Day11_bootstrap.iml" filepath="$PROJECT_DIR$/Day11_bootstrap/Day11_bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day12/Day12.iml" filepath="$PROJECT_DIR$/Day12/Day12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day12_xml/Day12_xml.iml" filepath="$PROJECT_DIR$/Day12_xml/Day12_xml.iml" />
     </modules>
   </component>
 </project>
