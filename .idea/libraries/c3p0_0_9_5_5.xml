@@ -1,9 +1,6 @@
 <component name="libraryTable">
   <library name="c3p0-0.9.5.5">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Day05_dataSource/libs/c3p0-0.9.5.5.jar!/" />
-      <root url="jar://$PROJECT_DIR$/Day05_dataSource/libs/mchange-commons-java-0.2.19.jar!/" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC />
     <SOURCES />
   </library>
