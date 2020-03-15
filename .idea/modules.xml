@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/Day13_tomcat/Day13_tomcat.iml" filepath="$PROJECT_DIR$/Day13_tomcat/Day13_tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day14_servlet&amp;http&amp;request/Day14_servlet&amp;http&amp;request.iml" filepath="$PROJECT_DIR$/Day14_servlet&amp;http&amp;request/Day14_servlet&amp;http&amp;request.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day14_test/Day14_test.iml" filepath="$PROJECT_DIR$/Day14_test/Day14_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day15_response/Day15_response.iml" filepath="$PROJECT_DIR$/Day15_response/Day15_response.iml" />
     </modules>
   </component>
 </project>

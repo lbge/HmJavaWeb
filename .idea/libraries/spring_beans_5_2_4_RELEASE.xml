@@ -1,11 +1,6 @@
 <component name="libraryTable">
   <library name="spring-beans-5.2.4.RELEASE">
-    <CLASSES>
-      <root url="jar://D:/Java/spring-beans-5.2.4.RELEASE.jar!/" />
-      <root url="jar://D:/Java/spring-core-5.2.4.RELEASE.jar!/" />
-      <root url="jar://D:/Java/spring-jdbc-5.2.4.RELEASE.jar!/" />
-      <root url="jar://D:/Java/spring-tx-5.2.4.RELEASE.jar!/" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC />
     <SOURCES />
   </library>
