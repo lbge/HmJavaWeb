@@ -1,4 +1,6 @@
 # HmJavaWeb
+## Day7
+el&jstl
 ## Day16
 cookie&session
 ## Day15
