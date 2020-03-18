@@ -20,11 +20,28 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/web/WEB-INFO/lib" />
+          <root url="file://$MODULE_DIR$/web/WEB-INF/lib" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://$MODULE_DIR$/web/WEB-INFO/lib" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/web/WEB-INF/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Day16_cookie&amp;session/web/WEB-INFO/lib/druid-1.1.21.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Day16_cookie&amp;session/web/WEB-INFO/lib/commons-logging-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Day16_cookie&amp;session/web/WEB-INFO/lib/commons-beanutils-1.8.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Day16_cookie&amp;session/web/WEB-INFO/lib/spring-tx-5.2.4.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Day16_cookie&amp;session/web/WEB-INFO/lib/spring-core-5.2.4.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Day16_cookie&amp;session/web/WEB-INFO/lib/spring-jdbc-5.2.4.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Day16_cookie&amp;session/web/WEB-INFO/lib/spring-beans-5.2.4.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Day16_cookie&amp;session/web/WEB-INFO/lib/mchange-commons-java-0.2.19.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Day16_cookie&amp;session/web/WEB-INFO/lib/mysql-connector-java-8.0.18.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
       </library>
     </orderEntry>
   </component>
