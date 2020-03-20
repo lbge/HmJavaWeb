@@ -10,39 +10,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8c1c7f3-fcdd-4e8a-b4b1-afa389221091" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/01-自定义js框架.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/02-JQuery快速入门.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/03-JQuery对象和js对象的转换.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/04-事件绑定.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/Day20_JQuery基础.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/dom操作/01-html&amp;text&amp;val.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/dom操作/02-prop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/dom操作/03-class&amp;css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/dom操作/04-create&amp;append.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/dom操作/05-remove.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/js/xducs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/01.隔行换色/01.隔行换色.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/02.全选和全不选/全选和全不选.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/03.QQ表情选择/QQ表情选择.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/03.QQ表情选择/img/01.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/03.QQ表情选择/img/02.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/03.QQ表情选择/img/03.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/03.QQ表情选择/img/04.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/03.QQ表情选择/img/05.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/03.QQ表情选择/img/06.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/03.QQ表情选择/img/07.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/03.QQ表情选择/img/08.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/03.QQ表情选择/img/09.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/03.QQ表情选择/img/10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/03.QQ表情选择/img/11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/03.QQ表情选择/img/12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/案例/04.多选下拉列表左右移动/左右移动.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/选择器/01-基本选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/选择器/02-属性选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/选择器/03-层级选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/选择器/04-过滤选择器.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20_JQuery基础/选择器/05-表单过滤选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/01-jquery动画/01-显示隐藏动画.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/02-jquery遍历/01-遍历.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/03-jquery事件绑定与解绑/01-绑定事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/03-jquery事件绑定与解绑/02-on绑定事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/03-jquery事件绑定与解绑/03-事件切换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/04-jQuery综合案例/广告的自动显示与隐藏.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/04-jQuery综合案例/抽奖.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/05-jQuery的插件/01-jQuery对象进行方法扩展.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/05-jQuery的插件/02-jQuery全局进行方法扩展.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/Day21_JQuery高级.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/img/adv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/img/man00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/img/man01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/img/man02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/img/man03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/img/man04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/img/man05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/img/man06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/js/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day21_JQuery高级/js/jquery-migrate-1.0.0.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -114,20 +102,20 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="js.last.introduce.type" value="VAR" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day20_JQuery基础" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day21_JQuery高级/js" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29770115" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="settings.editor.splitter.proportion" value="0.17232859" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day20_JQuery基础" />
-      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day20_JQuery基础\js" />
-      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day19_filter&amp;listener\web\WEB-INFO" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day19_filter&amp;listener\src" />
+      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day17_case\src" />
       <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day17_case\web" />
-      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day17_case\src\com\xducs\web\servlet" />
+      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day15_response\web" />
+      <recent name="D:\Java\JavaWeb\BLWeb\Day01\src\com\xducs\demo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xducs.web.servlet" />
@@ -136,12 +124,12 @@
       <recent name="com.xducs.servlet" />
       <recent name="com.xducs.session" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day19_filter&amp;listener\src" />
-      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day17_case\src" />
-      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day17_case\web" />
-      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day15_response\web" />
-      <recent name="D:\Java\JavaWeb\BLWeb\Day01\src\com\xducs\demo" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day21_JQuery高级\js" />
+      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day21_JQuery高级" />
+      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day20_JQuery基础" />
+      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day20_JQuery基础\js" />
+      <recent name="D:\IDEAProject\JavaWeb\HmJavaWeb\Day19_filter&amp;listener\web\WEB-INFO" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.31">
@@ -413,7 +401,8 @@
       <workItem from="1584525365163" duration="2625000" />
       <workItem from="1584532271707" duration="483000" />
       <workItem from="1584532791084" duration="328000" />
-      <workItem from="1584579908032" duration="18883000" />
+      <workItem from="1584579908032" duration="19287000" />
+      <workItem from="1584667680348" duration="8630000" />
     </task>
     <task id="LOCAL-00001" summary="20200304">
       <created>1583322619608</created>
@@ -608,10 +597,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1378" height="389" key="GridCell.Tab.3.right/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1584496765347" />
-    <state x="76" y="258" width="1636" height="782" key="SettingsEditor" timestamp="1584525407514">
+    <state x="76" y="258" width="1636" height="782" key="SettingsEditor" timestamp="1584673771725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="76" y="258" width="1636" height="782" key="SettingsEditor/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1584525407514" />
+    <state x="76" y="258" width="1636" height="782" key="SettingsEditor/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1584673771725" />
     <state x="461" y="182" key="SettingsEditor/0.0.1920.1080/-1920.-60.1536.864@0.0.1920.1080" timestamp="1582975757246" />
     <state x="658" y="417" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584070364464">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -639,10 +628,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="304" key="extract.method.dialog/0.0.1920.1080/-1920.-60.1536.864@0.0.1920.1080" timestamp="1582972711925" />
-    <state x="335" y="144" key="new project wizard" timestamp="1584579979597">
+    <state x="335" y="144" key="new project wizard" timestamp="1584667720576">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="335" y="144" key="new project wizard/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1584579979597" />
+    <state x="335" y="144" key="new project wizard/0.0.1920.1040/-1920.-60.1536.864@0.0.1920.1040" timestamp="1584667720575" />
     <state x="335" y="150" key="new project wizard/0.0.1920.1080/-1920.-60.1536.864@0.0.1920.1080" timestamp="1583034807160" />
     <state x="2255" y="210" key="new project wizard/1920.60.1920.1080/0.0.1536.864@1920.60.1920.1080" timestamp="1582687219467" />
     <state x="702" y="147" key="refactoring.ChangeSignatureDialog" timestamp="1584494848040">
