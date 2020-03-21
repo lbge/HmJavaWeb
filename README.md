@@ -1,4 +1,6 @@
 # HmJavaWeb
+## Day22
+Ajax&Json
 ## Day21
 JQuery高级
 ## Day20
