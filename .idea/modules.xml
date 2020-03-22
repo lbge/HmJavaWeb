@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/Day20_JQuery基础/Day20_JQuery基础.iml" filepath="$PROJECT_DIR$/Day20_JQuery基础/Day20_JQuery基础.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day21_JQuery高级/Day21_JQuery高级.iml" filepath="$PROJECT_DIR$/Day21_JQuery高级/Day21_JQuery高级.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day22_AJAX&amp;Json/Day22_AJAX&amp;Json.iml" filepath="$PROJECT_DIR$/Day22_AJAX&amp;Json/Day22_AJAX&amp;Json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day23_redis/Day23_redis.iml" filepath="$PROJECT_DIR$/Day23_redis/Day23_redis.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Day23_redis:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Day23_redis_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Day23_redis/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Day23_redis" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/Day23_redis/web/WEB-INF/lib/jedis-2.7.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day23_redis/web/WEB-INF/lib/commons-pool2-2.3.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -7,6 +7,34 @@
         <element id="directory" name="classes">
           <element id="module-output" name="Day22_AJAX&amp;Json" />
         </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/jstl-impl.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/c3p0-0.9.5.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/druid-1.1.21.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/jsoup-1.11.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/JsoupXpath-0.3.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/jackson-core-2.2.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/jackson-databind-2.2.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/javax.servlet.jsp.jstl.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/commons-beanutils-1.8.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/spring-tx-5.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/jackson-annotations-2.2.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/spring-core-5.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/spring-jdbc-5.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/spring-beans-5.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day22_AJAX&amp;Json/web/WEB-INF/lib/mysql-connector-java-8.0.18.jar" />
+          <element id="library" level="module" name="JUnit4" module-name="Day22_AJAX&amp;Json" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day16_cookie&amp;session/web/WEB-INFO/lib/druid-1.1.21.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day16_cookie&amp;session/web/WEB-INFO/lib/commons-logging-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day16_cookie&amp;session/web/WEB-INFO/lib/commons-beanutils-1.8.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day16_cookie&amp;session/web/WEB-INFO/lib/spring-tx-5.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day16_cookie&amp;session/web/WEB-INFO/lib/spring-core-5.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day16_cookie&amp;session/web/WEB-INFO/lib/spring-jdbc-5.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day16_cookie&amp;session/web/WEB-INFO/lib/spring-beans-5.2.4.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day16_cookie&amp;session/web/WEB-INFO/lib/mchange-commons-java-0.2.19.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Day16_cookie&amp;session/web/WEB-INFO/lib/mysql-connector-java-8.0.18.jar" />
+        </element>
       </element>
     </root>
   </artifact>
